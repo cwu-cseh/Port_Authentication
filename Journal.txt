@@ -1,0 +1,3 @@
+Long's Progess Journal
+
+Day_1: Starting the Git Journal. Next time I will learn how to use Nmap.
